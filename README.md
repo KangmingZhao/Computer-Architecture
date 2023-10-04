@@ -1,6 +1,7 @@
 # Computer_architecture
 
 #### 介绍
-23Fall-Computer architecture
+NKU 23Fall Computer Architecture 
 
-NKUCS大三课程
+#### Lab1-Simulation1
+Complete the instructions of MIPS
